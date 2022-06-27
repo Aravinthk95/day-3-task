@@ -1,0 +1,6 @@
+COMPARISON OF THE TWO JSON OBJ:
+
+          We can compare the two JSON obj in the same way because in the both the properties the content are 
+same but the difference is the place of the content only differ in the OBJ1; the order is like 
+{name: "person 1", age;5}; but in the OBJ2; the order is like the {age:5, name: "person 1"}; the all are 
+alike.
